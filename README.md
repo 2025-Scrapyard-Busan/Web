@@ -1,5 +1,4 @@
-#Ranking page
+# Ranking Page
 
-Function: 
-Ranked based on the time taken to wake up 'Rami (alarm). 
-Next to the time taken, the intensity of sound, brightness, and shaking is 100% based.
+Function: Rankings are determined based on the time taken to wake up "Rami (alarm)." 
+Next to the recorded time, the intensity of sound, brightness, and shaking is displayed as a percentage (with 100% as the reference).
